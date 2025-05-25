@@ -68,6 +68,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 📧 Contacto
 
-[Tu Nombre] - [Tu Email]
+0xBlazy - tecno.juy.ar@gmail.com
 
 Link del Proyecto: [https://github.com/tu-usuario/tu-repositorio](https://github.com/tu-usuario/tu-repositorio)
